@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 //                TODO(#1): Esse texto não deveria estar aqui
-                Toast toast = Toast.makeText(MainActivity.this, "Bem vindo, mestre", Toast.LENGTH_LONG);
+                String welcomeMsg = getString(R.string.welcome_msg);
+                Toast toast = Toast.makeText(MainActivity.this, welcomeMsg, Toast.LENGTH_LONG);
                 toast.setGravity(CENTER, 0, 0);
                 toast.show();
             }

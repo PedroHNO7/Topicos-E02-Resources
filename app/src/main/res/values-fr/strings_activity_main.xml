@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour, Monde</string>
+    <string name="welcome_msg">Bienvenue, maître</string>
+    <string name="msg_btn_surprise">Surprise!</string>
+</resources>

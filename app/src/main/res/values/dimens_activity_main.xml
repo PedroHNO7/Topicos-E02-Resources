@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_default_margin_btn">50dp</dimen>
+    <dimen name="main_txt_size">30dp</dimen>
+    <dimen name="main_txt_padding">30dp</dimen>
+</resources>
